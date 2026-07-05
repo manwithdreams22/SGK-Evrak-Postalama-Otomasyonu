@@ -87,6 +87,6 @@ Bu proje, SGK Evrak Servisi üzerinde gerçekleştirilen tekrar eden postalama i
 
 ## UYARI !!
 
-Proje Postalanmayı Bekleyenler Sayfasındaki tüm postaları postalamak amacıyla geliştirilmiştir. kontrol edilmesi gereken postaları siz kontrol etmeden postalayabilir projenin yarattığı sorunlar sorumluluğum dahilin de değildir.
+Proje Postalanmayı Bekleyenler Sayfasındaki tüm postaları postalamak amacıyla geliştirilmiştir. kontrol edilmesi gereken postaları siz kontrol etmeden postalayabilir projenin yarattığı sorunlar sorumluluğum dahilinde değildir.
 
-Projeyi Bilgi İşlem Servisinize danıştıktan sonra kullanınız. Proje BELGENET üzerinde çalışması için tasarlanmıştır BELGENET aksamaları yüzünden program yoldan çıkabilir. BELGENET aksamaları sorumluluğum dahilin de değildir
+Projeyi Bilgi İşlem Servisinize danıştıktan sonra kullanınız. Proje BELGENET üzerinde çalışması için tasarlanmıştır BELGENET aksamaları yüzünden program yoldan çıkabilir. BELGENET aksamaları sorumluluğum dahilinde değildir
