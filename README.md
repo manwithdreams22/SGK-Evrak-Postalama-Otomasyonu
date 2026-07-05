@@ -2,7 +2,7 @@
 
 ## Açıklama
 
-Bu JavaScript betiği Sosyal Güvenlik Kurumu (SGK) Evrak Servisi web arayüzünde bulunan evrakların postalama işlemlerini otomatik olarak gerçekleştirmek amacıyla geliştirilmiştir.
+Bu JavaScript betiği Sosyal Güvenlik Kurumu (SGK) Evrak Servisi BELGENET web arayüzünde bulunan evrakların postalama işlemlerini otomatik olarak gerçekleştirmek amacıyla geliştirilmiştir.
 
 Kod tarayıcı(F12 DEVTOOLS) üzerinde çalıştırılarak kullanıcı tarafından manuel olarak yapılan tekrar eden işlemleri otomatik hale getirir. Böylece işlem süresi kısalır ve kullanıcı müdahalesi en aza indirilir.
 
