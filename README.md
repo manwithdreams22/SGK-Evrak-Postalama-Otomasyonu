@@ -49,7 +49,8 @@ Gerekirse bu süreler sistem performansına göre güncellenebilir.
 2. Tarayıcı geliştirici araçlarını (Developer Tools) açın.
 3. Console sekmesine geçin.
 4. JavaScript kodunu yapıştırın.
-5. Enter tuşuna basarak çalıştırın.
+5. Eğer uyarı çıkar ve yapıştırılmaz ise consoleye 'allow pasting' yazınız.
+6. Enter tuşuna basarak çalıştırın.
 
 Program mevcut listedeki kayıtları sırayla işlemeye başlayacaktır.
 
